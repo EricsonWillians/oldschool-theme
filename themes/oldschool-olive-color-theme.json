@@ -1,11 +1,11 @@
 {
-	"name": "Oldschool Theme (Teal)",
+	"name": "Oldschool Theme (Olive)",
 	"type": "dark",
 	"colors": {
 		"editor.background": "#000040",
-		"activityBar.background": "#007070",
+		"activityBar.background": "#707000",
 		"activityBar.border": "#FFFFFF",
-		"tab.activeBackground": "#007070",
+		"tab.activeBackground": "#707000",
 		"tab.activeForeground": "#FFFFFF",
 		"menu.background": "#151515",
 		"panel.background": "#151515",
@@ -33,7 +33,7 @@
 		"editorError.background": "#151515",
 		"welcomePage.background": "#151515",
 		"menu.selectionBackground": "#151515",
-		"tab.hoverBackground": "#007070",
+		"tab.hoverBackground": "#707000",
 		"tab.border": "#FFFFFF",
 		"panel.border": "#FFFFFF",
 		"sideBar.border": "#FFFFFF",

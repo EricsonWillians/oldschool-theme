@@ -8,15 +8,31 @@
     "engines": {
         "vscode": "^1.52.0"
     },
+    "icon": "icon.png",
     "categories": [
         "Themes"
     ],
     "contributes": {
         "themes": [
             {
+                "label": "Oldschool Theme (QBasic)",
+                "uiTheme": "hc-black",
+                "path": "./themes/oldschool-qbasic-color-theme.json"
+            },
+            {
+                "label": "Oldschool Theme (Olive)",
+                "uiTheme": "hc-black",
+                "path": "./themes/oldschool-olive-color-theme.json"
+            },
+            {
                 "label": "Oldschool Theme (Gray)",
                 "uiTheme": "hc-black",
                 "path": "./themes/oldschool-gray-color-theme.json"
+            },
+            {
+                "label": "Oldschool Theme (Purple)",
+                "uiTheme": "hc-black",
+                "path": "./themes/oldschool-purple-color-theme.json"
             },
             {
                 "label": "Oldschool Theme (Maroon)",
@@ -27,7 +43,13 @@
                 "label": "Oldschool Theme (Teal)",
                 "uiTheme": "hc-black",
                 "path": "./themes/oldschool-teal-color-theme.json"
-            }
+            },
+            {
+                "label": "Oldschool Theme (Green)",
+                "uiTheme": "hc-black",
+                "path": "./themes/oldschool-green-color-theme.json"
+            },
+            
         ]
     }
 }
