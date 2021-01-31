@@ -13,5 +13,3 @@ Available in seven options:
  - green
 
 ![qbasic](https://github.com/EricsonWillians/oldschool-theme/blob/master/qbasic.png "QBasic Screenshot")
-
-![code](https://github.com/EricsonWillians/oldschool-theme/blob/master/code.png "Code Screenshot")
