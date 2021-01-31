@@ -3,6 +3,7 @@
     "publisher": "EricsonWillians",
     "displayName": "Oldschool Theme",
     "description": "An actually usable theme for those who suffer from severe nostalgia, inspired by QBasic and MS-DOS in general.",
+    "repository": "https://github.com/EricsonWillians/oldschool-theme",
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.52.0"
