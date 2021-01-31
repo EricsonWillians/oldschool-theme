@@ -1,55 +1,54 @@
 {
-    "name": "oldschool-theme",
-    "publisher": "EricsonWillians",
-    "displayName": "Oldschool Theme",
-    "description": "An actually usable theme for those who suffer from severe nostalgia, inspired by QBasic and MS-DOS in general.",
-    "repository": "https://github.com/EricsonWillians/oldschool-theme",
-    "version": "0.0.2",
-    "engines": {
-        "vscode": "^1.52.0"
-    },
-    "icon": "icon.png",
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "Oldschool Theme (QBasic)",
-                "uiTheme": "hc-black",
-                "path": "./themes/oldschool-qbasic-color-theme.json"
-            },
-            {
-                "label": "Oldschool Theme (Olive)",
-                "uiTheme": "hc-black",
-                "path": "./themes/oldschool-olive-color-theme.json"
-            },
-            {
-                "label": "Oldschool Theme (Gray)",
-                "uiTheme": "hc-black",
-                "path": "./themes/oldschool-gray-color-theme.json"
-            },
-            {
-                "label": "Oldschool Theme (Purple)",
-                "uiTheme": "hc-black",
-                "path": "./themes/oldschool-purple-color-theme.json"
-            },
-            {
-                "label": "Oldschool Theme (Maroon)",
-                "uiTheme": "hc-black",
-                "path": "./themes/oldschool-maroon-color-theme.json"
-            },
-            {
-                "label": "Oldschool Theme (Teal)",
-                "uiTheme": "hc-black",
-                "path": "./themes/oldschool-teal-color-theme.json"
-            },
-            {
-                "label": "Oldschool Theme (Green)",
-                "uiTheme": "hc-black",
-                "path": "./themes/oldschool-green-color-theme.json"
-            },
-            
-        ]
-    }
+  "name": "oldschool-theme",
+  "publisher": "EricsonWillians",
+  "displayName": "Oldschool Theme",
+  "description": "An actually usable theme for those who suffer from severe nostalgia, inspired by QBasic and MS-DOS in general.",
+  "repository": "https://github.com/EricsonWillians/oldschool-theme",
+  "version": "0.0.2",
+  "engines": {
+    "vscode": "^1.52.0"
+  },
+  "icon": "icon.png",
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Oldschool Theme (QBasic)",
+        "uiTheme": "hc-black",
+        "path": "./themes/oldschool-qbasic-color-theme.json"
+      },
+      {
+        "label": "Oldschool Theme (Olive)",
+        "uiTheme": "hc-black",
+        "path": "./themes/oldschool-olive-color-theme.json"
+      },
+      {
+        "label": "Oldschool Theme (Gray)",
+        "uiTheme": "hc-black",
+        "path": "./themes/oldschool-gray-color-theme.json"
+      },
+      {
+        "label": "Oldschool Theme (Purple)",
+        "uiTheme": "hc-black",
+        "path": "./themes/oldschool-purple-color-theme.json"
+      },
+      {
+        "label": "Oldschool Theme (Maroon)",
+        "uiTheme": "hc-black",
+        "path": "./themes/oldschool-maroon-color-theme.json"
+      },
+      {
+        "label": "Oldschool Theme (Teal)",
+        "uiTheme": "hc-black",
+        "path": "./themes/oldschool-teal-color-theme.json"
+      },
+      {
+        "label": "Oldschool Theme (Green)",
+        "uiTheme": "hc-black",
+        "path": "./themes/oldschool-green-color-theme.json"
+      }
+    ]
+  }
 }
