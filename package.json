@@ -4,7 +4,7 @@
     "displayName": "Oldschool Theme",
     "description": "An actually usable theme for those who suffer from severe nostalgia, inspired by QBasic and MS-DOS in general.",
     "repository": "https://github.com/EricsonWillians/oldschool-theme",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "engines": {
         "vscode": "^1.52.0"
     },
@@ -13,6 +13,11 @@
     ],
     "contributes": {
         "themes": [
+            {
+                "label": "Oldschool Theme (Gray)",
+                "uiTheme": "hc-black",
+                "path": "./themes/oldschool-gray-color-theme.json"
+            },
             {
                 "label": "Oldschool Theme (Maroon)",
                 "uiTheme": "hc-black",
