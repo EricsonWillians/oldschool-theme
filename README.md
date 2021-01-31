@@ -12,4 +12,6 @@ Available in seven options:
  - teal
  - green
 
+### QBasic Screenshot:
+
 ![qbasic](https://github.com/EricsonWillians/oldschool-theme/blob/master/qbasic.png "QBasic Screenshot")
