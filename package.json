@@ -4,7 +4,22 @@
   "displayName": "Oldschool Theme",
   "description": "An actually usable theme for those who suffer from severe nostalgia, inspired by QBasic and MS-DOS in general.",
   "repository": "https://github.com/EricsonWillians/oldschool-theme",
+  "license": "GNU",
   "version": "0.0.2",
+  "keywords": [
+    "oldschool",
+    "qbasic",
+    "win95",
+    "windows 95",
+    "ms-dos",
+    "msdos",
+    "90s",
+    "nostalgic",
+    "old",
+    "borland",
+    "monokai",
+    "high-contrast"
+  ],
   "engines": {
     "vscode": "^1.52.0"
   },
