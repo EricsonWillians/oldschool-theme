@@ -35,6 +35,11 @@
         "path": "./themes/oldschool-qbasic-color-theme.json"
       },
       {
+        "label": "Oldschool Theme (Darker QBasic)",
+        "uiTheme": "hc-black",
+        "path": "./themes/oldschool-darker-qbasic-color-theme.json"
+      },
+      {
         "label": "Oldschool Theme (Olive)",
         "uiTheme": "hc-black",
         "path": "./themes/oldschool-olive-color-theme.json"
@@ -53,6 +58,11 @@
         "label": "Oldschool Theme (Maroon)",
         "uiTheme": "hc-black",
         "path": "./themes/oldschool-maroon-color-theme.json"
+      },
+      {
+        "label": "Oldschool Theme (Evil)",
+        "uiTheme": "hc-black",
+        "path": "./themes/oldschool-evil-color-theme.json"
       },
       {
         "label": "Oldschool Theme (Teal)",
