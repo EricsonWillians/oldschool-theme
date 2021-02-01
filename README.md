@@ -14,4 +14,4 @@ Available in seven options:
 
 ### QBasic Screenshot:
 
-![qbasic](https://github.com/EricsonWillians/oldschool-theme/blob/master/qbasic.png "QBasic Screenshot")
+![qbasic](qbasic.png "QBasic Screenshot")
