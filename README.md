@@ -15,3 +15,7 @@ Available in seven options:
 ### QBasic Screenshot:
 
 ![qbasic](qbasic.png "QBasic Screenshot")
+
+### Darker QBasic Screenshot:
+
+![qbasic](darker-qbasic.png "Darker QBasic Screenshot")
