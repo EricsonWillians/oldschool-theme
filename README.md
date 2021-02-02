@@ -5,10 +5,12 @@ A high-contrast monokai theme loosely inspired by QBasic and MS-DOS in order to 
 Available in seven options:
 
  - qbasic
+ - darker-qbasic
  - olive
  - gray
  - purple
  - maroon
+ - evil
  - teal
  - green
 
