@@ -30,49 +30,69 @@
   "contributes": {
     "themes": [
       {
-        "label": "Oldschool Theme (QBasic)",
-        "uiTheme": "hc-black",
-        "path": "./themes/oldschool-qbasic-color-theme.json"
-      },
-      {
-        "label": "Oldschool Theme (Darker QBasic)",
+        "label": "Oldschool Theme (Darker QBasic) - Monokai",
         "uiTheme": "hc-black",
         "path": "./themes/oldschool-darker-qbasic-color-theme.json"
       },
       {
-        "label": "Oldschool Theme (Olive)",
+        "label": "Oldschool Theme (QBasic) - Monokai",
+        "uiTheme": "hc-black",
+        "path": "./themes/oldschool-qbasic-color-theme.json"
+      },
+      {
+        "label": "Oldschool Theme (Doom)",
+        "uiTheme": "hc-black",
+        "path": "./themes/oldschool-doom-theme.json"
+      },
+      {
+        "label": "Windows 95 (Somewhat nostalgic theme)",
+        "uiTheme": "hc-black",
+        "path": "./themes/windows-95-somewhat-nostalgic-theme.json"
+      },
+      {
+        "label": "Windows 95 (Very nostalgic theme)",
+        "uiTheme": "hc-black",
+        "path": "./themes/windows-95-very-nostalgic-theme.json"
+      },
+      {
+        "label": "Oldschool Theme (Olive) - Monokai",
         "uiTheme": "hc-black",
         "path": "./themes/oldschool-olive-color-theme.json"
       },
       {
-        "label": "Oldschool Theme (Gray)",
+        "label": "Oldschool Theme (Gray) - Monokai",
         "uiTheme": "hc-black",
         "path": "./themes/oldschool-gray-color-theme.json"
       },
       {
-        "label": "Oldschool Theme (Purple)",
+        "label": "Oldschool Theme (Purple) - Monokai",
         "uiTheme": "hc-black",
         "path": "./themes/oldschool-purple-color-theme.json"
       },
       {
-        "label": "Oldschool Theme (Maroon)",
+        "label": "Oldschool Theme (Maroon) - Monokai",
         "uiTheme": "hc-black",
         "path": "./themes/oldschool-maroon-color-theme.json"
       },
       {
-        "label": "Oldschool Theme (Evil)",
+        "label": "Oldschool Theme (Evil) - Monokai",
         "uiTheme": "hc-black",
         "path": "./themes/oldschool-evil-color-theme.json"
       },
       {
-        "label": "Oldschool Theme (Teal)",
+        "label": "Oldschool Theme (Teal) - Monokai",
         "uiTheme": "hc-black",
         "path": "./themes/oldschool-teal-color-theme.json"
       },
       {
-        "label": "Oldschool Theme (Green)",
+        "label": "Oldschool Theme (Green) - Monokai",
         "uiTheme": "hc-black",
         "path": "./themes/oldschool-green-color-theme.json"
+      },
+      {
+        "label": "Oldschool Theme (QBASIC Light)",
+        "uiTheme": "hc-black",
+        "path": "./themes/oldschool-qbasic-light.json"
       }
     ]
   }

@@ -1,0 +1,98 @@
+{
+    "name": "Doom MS-DOS Theme",
+    "type": "dark",
+    "colors": {
+      "editor.background": "#330000",
+      "editor.foreground": "#FFFFFF",
+      "editorLineNumber.foreground": "#808080",
+      "editorCursor.foreground": "#FFFFFF",
+      "editor.lineHighlightBackground": "#1A1A1A",
+      "selection.background": "#555555",
+      "activityBar.background": "#330000",
+      "activityBar.foreground": "#FFFFFF",
+      "activityBarBadge.background": "#FFA500",
+      "activityBarBadge.foreground": "#000000",
+      "tab.activeForeground": "#FFFFFF",
+      "tab.inactiveForeground": "#808080",
+      "tab.border": "#808080",
+      "statusBar.background": "#000000",
+      "statusBar.foreground": "#FFFFFF",
+      "sideBar.background": "#000033",
+      "sideBar.foreground": "#FFFFFF",
+      "sideBar.border": "#808080",
+      "terminal.foreground": "#FFFFFF"
+    },
+    "tokenColors": [
+      {
+        "settings": {
+          "foreground": "#FFFFFF"
+        }
+      },
+      {
+        "name": "Comment",
+        "scope": ["comment"],
+        "settings": { "foreground": "#FF5555" }
+      },
+      {
+        "name": "String",
+        "scope": "string",
+        "settings": { "foreground": "#FFE792" }
+      },
+      {
+        "name": "Number",
+        "scope": "constant.numeric",
+        "settings": { "foreground": "#FFD700" }
+      },
+      {
+        "name": "Built-in constant",
+        "scope": "constant.language",
+        "settings": { "foreground": "#FFD700" }
+      },
+      {
+        "name": "User-defined constant",
+        "scope": ["constant.character", "constant.other"],
+        "settings": { "foreground": "#FFD700" }
+      },
+      {
+        "name": "Variable",
+        "scope": "variable",
+        "settings": { "foreground": "#FFFFFF" }
+      },
+      {
+        "name": "Keyword",
+        "scope": "keyword",
+        "settings": { "foreground": "#FF5555", "fontStyle": "bold" }
+      },
+      {
+        "name": "Storage",
+        "scope": "storage",
+        "settings": { "foreground": "#FF5555", "fontStyle": "bold" }
+      },
+      {
+        "name": "Class name",
+        "scope": "entity.name.class",
+        "settings": { "foreground": "#FFE792" }
+      },
+      {
+        "name": "Inherited class",
+        "scope": "entity.other.inherited-class",
+        "settings": { "foreground": "#FFE792" }
+      },
+      {
+        "name": "Function name",
+        "scope": "entity.name.function",
+        "settings": { "foreground": "#FFE792" }
+      },
+      {
+        "name": "Function argument",
+        "scope": "variable.parameter",
+        "settings": { "foreground": "#FFD700" }
+      },
+      {
+        "name": "Tag name",
+        "scope": "entity.name.tag",
+        "settings": { "foreground": "#FF5555", "fontStyle": "bold" }
+      }
+    ]
+  }
+  
