@@ -1,16 +1,16 @@
 {
-  "name": "oldschool-theme",
-  "publisher": "EricsonWillians",
-  "displayName": "Oldschool Theme",
-  "description": "An actually usable theme for those who suffer from severe nostalgia, inspired by QBasic and MS-DOS in general.",
+  "name": "oldschool-theme-win95-edition",
+  "publisher": "ericson-willians",
+  "displayName": "Oldschool Theme: Windows 95 Edition",
+  "description": "An actually usable theme for those who suffer from severe nostalgia, inspired by Win95, QBasic and MS-DOS in general.",
   "repository": "https://github.com/EricsonWillians/oldschool-theme",
   "license": "GNU",
-  "version": "0.0.7",
+  "version": "1.0.0",
   "keywords": [
+    "windows 95",
     "oldschool",
     "qbasic",
     "win95",
-    "windows 95",
     "ms-dos",
     "msdos",
     "90s",
@@ -30,9 +30,29 @@
   "contributes": {
     "themes": [
       {
+        "label": "Windows 95 (Very nostalgic theme)",
+        "uiTheme": "hc-black",
+        "path": "./themes/windows-95-very-nostalgic-theme.json"
+      },
+      {
+        "label": "Windows 95 (Somewhat nostalgic theme)",
+        "uiTheme": "hc-black",
+        "path": "./themes/windows-95-somewhat-nostalgic-theme.json"
+      },
+      {
         "label": "Oldschool Theme (Darker QBasic) - Monokai",
         "uiTheme": "hc-black",
         "path": "./themes/oldschool-darker-qbasic-color-theme.json"
+      },
+      {
+        "label": "Oldschool Terminal Theme (Green)",
+        "uiTheme": "hc-black",
+        "path": "./themes/oldschool-terminal-green.json"
+      },
+      {
+        "label": "Oldschool Theme (Qbasic Light)",
+        "uiTheme": "hc-black",
+        "path": "./themes/oldschool-qbasic-light.json"
       },
       {
         "label": "Oldschool Theme (QBasic) - Monokai",
@@ -43,16 +63,6 @@
         "label": "Oldschool Theme (Doom)",
         "uiTheme": "hc-black",
         "path": "./themes/oldschool-doom-theme.json"
-      },
-      {
-        "label": "Windows 95 (Somewhat nostalgic theme)",
-        "uiTheme": "hc-black",
-        "path": "./themes/windows-95-somewhat-nostalgic-theme.json"
-      },
-      {
-        "label": "Windows 95 (Very nostalgic theme)",
-        "uiTheme": "hc-black",
-        "path": "./themes/windows-95-very-nostalgic-theme.json"
       },
       {
         "label": "Oldschool Theme (Olive) - Monokai",
@@ -88,11 +98,6 @@
         "label": "Oldschool Theme (Green) - Monokai",
         "uiTheme": "hc-black",
         "path": "./themes/oldschool-green-color-theme.json"
-      },
-      {
-        "label": "Oldschool Theme (QBASIC Light)",
-        "uiTheme": "hc-black",
-        "path": "./themes/oldschool-qbasic-light.json"
       }
     ]
   }

@@ -1,86 +1,139 @@
 {
-    "name": "Windows 95 (Somewhat nostalgic)",
-    "type": "dark",
-    "colors": {
-      "editor.background": "#000000",
-      "editor.foreground": "#FFFFFF",
-      "editorLineNumber.foreground": "#808080",
-      "editorCursor.foreground": "#FFFFFF",
-      "editor.lineHighlightBackground": "#555555",
-      "selection.background": "#FF8C00",
-      "activityBar.background": "#000080",
-      "activityBar.foreground": "#FFFFFF",
-      "activityBarBadge.background": "#FFA500",
-      "activityBarBadge.foreground": "#000000",
-      "tab.activeForeground": "#FFFFFF",
-      "tab.inactiveForeground": "#808080",
-      "tab.border": "#FFFFFF",
-      "statusBar.background": "#000080",
-      "statusBar.foreground": "#FFFFFF",
-      "sideBar.background": "#000080",
-      "sideBar.foreground": "#FFFFFF",
-      "sideBar.border": "#FFFFFF",
-      "terminal.foreground": "#FFFFFF"
-    },
-    "tokenColors": [
-      {
-        "scope": [
-          "comment",
-          "punctuation.definition.comment"
-        ],
-        "settings": {
-          "foreground": "#808080"
-        }
-      },
-      {
-        "scope": "string",
-        "settings": {
-          "foreground": "#FFFF00"
-        }
-      },
-      {
-        "scope": "constant.numeric",
-        "settings": {
-          "foreground": "#00FF00"
-        }
-      },
-      {
-        "scope": [
-          "keyword",
-          "storage.type"
-        ],
-        "settings": {
-          "foreground": "#00FFFF"
-        }
-      },
-      {
-        "scope": [
-          "entity.name.function",
-          "entity.name.tag",
-          "support.function"
-        ],
-        "settings": {
-          "foreground": "#FF00FF"
-        }
-      },
-      {
-        "scope": "variable",
-        "settings": {
-          "foreground": "#FFA500"
-        }
-      },
-      {
-        "scope": "constant.language",
-        "settings": {
-          "foreground": "#808080"
-        }
-      },
-      {
-        "scope": "entity.other.attribute-name",
-        "settings": {
-          "foreground": "#FFFF00"
-        }
+  "name": "Windows 95 (Somewhat nostalgic)",
+  "type": "dark",
+  "colors": {
+    "editor.background": "#000000",
+    "editor.foreground": "#FFFFFF",
+    "editorLineNumber.foreground": "#808080",
+    "editorCursor.foreground": "#FFFFFF",
+    "editor.lineHighlightBackground": "#555555",
+    "selection.background": "#FF8C00",
+    "activityBar.background": "#000080",
+    "activityBar.foreground": "#FFFFFF",
+    "activityBarBadge.background": "#FFA500",
+    "activityBarBadge.foreground": "#000000",
+    "tab.activeForeground": "#FFFFFF",
+    "tab.inactiveForeground": "#808080",
+    "contrastBorder": "#FFFFFF",
+    "titleBar.border": "#FFFFFF",
+    "peekView.border": "#FFFFFF",
+    "terminal.border": "#FFFFFF",
+    "merge.border": "#FFFFFF",
+    "sash.hoverBorder": "#FFFFFF",
+    "checkbox.border": "#FFFFFF",
+    "list.activeSelectionForeground": "#FFFFFF",
+    "editorHint.border": "#FFFFFF",
+    "editorInfo.border": "#FFFFFF",
+    "diffEditor.border": "#FFFFFF",
+    "editorWidget.border": "#FFFFFF",
+    "focusBorder": "#FFFFFF",
+    "editorGroup.border": "#FFFFFF",
+    "panelSectionHeader.border": "#FFFFFF",
+    "editorGroupHeader.border": "#FFFFFF",
+    "pickerGroup.border": "#FFFFFF",
+    "panel.dropBorder": "#FFFFFF",
+    "panelInput.border": "#FFFFFF",
+    "editorError.border": "#FFFFFF",
+    "panelSection.border": "#FFFFFF",
+    "window.activeBorder": "#FFFFFF",
+    "tab.activeBorderTop": "#FFFFFF",
+    "debugToolBar.border": "#FFFFFF",
+    "tab.lastPinnedBorder": "#FFFFFF",
+    "notebook.cellBorderColor": "#FFFFFF",
+    "contrastActiveBorder": "#FFFFFF",
+    "editorWarning.border": "#FFFFFF",
+    "menu.selectionBorder": "#FFFFFF",
+    "notifications.border": "#FFFFFF",
+    "textBlockQuote.border": "#FFFFFF",
+    "window.inactiveBorder": "#FFFFFF",
+    "activityBar.dropBorder": "#FFFFFF",
+    "editor.findMatchBorder": "#FFFFFF",
+    "list.filterMatchBorder": "#FFFFFF",
+    "menubar.selectionBorder": "#FFFFFF",
+    "panelTitle.activeBorder": "#FFFFFF",
+    "settings.checkboxBorder": "#FFFFFF",
+    "settings.dropdownBorder": "#FFFFFF",
+    "statusBar.noFolderBorder": "#FFFFFF",
+    "tab.activeModifiedBorder": "#FFFFFF",
+    "activityBar.activeBorder": "#FFFFFF",
+    "editorHoverWidget.border": "#FFFFFF",
+    "inputOption.activeBorder": "#FFFFFF",
+    "notificationToast.border": "#FFFFFF",
+    "settings.textInputBorder": "#FFFFFF",
+    "editorBracketMatch.border": "#FFFFFF",
+    "statusBar.debuggingBorder": "#FFFFFF",
+    "tab.unfocusedActiveBorder": "#FFFFFF",
+    "tab.unfocusedActiveBorderTop": "#FFFFFF",
+    "editorWidget.resizeBorder": "#FFFFFF",
+    "notificationCenter.border": "#FFFFFF",
+    "notebook.focusedCellBorder": "#FFFFFF",
+    "tab.inactiveModifiedBorder": "#FFFFFF",
+    "settings.numberInputBorder": "#FFFFFF",
+    "editor.lineHighlightBorder": "#000035",
+    "editor.wordHighlightBorder": "#FFFFFF",
+    "editorOverviewRuler.border": "#FFFFFF",
+    "editorSuggestWidget.border": "#FFFFFF",
+    "inputValidation.infoBorder": "#FFFFFF",
+    "notebook.selectedCellBorder": "#FFFFFF"
+  },
+  "tokenColors": [
+    {
+      "scope": [
+        "comment",
+        "punctuation.definition.comment"
+      ],
+      "settings": {
+        "foreground": "#808080"
       }
-    ]
-  }
-  
+    },
+    {
+      "scope": "string",
+      "settings": {
+        "foreground": "#FFFF00"
+      }
+    },
+    {
+      "scope": "constant.numeric",
+      "settings": {
+        "foreground": "#00FF00"
+      }
+    },
+    {
+      "scope": [
+        "keyword",
+        "storage.type"
+      ],
+      "settings": {
+        "foreground": "#00FFFF"
+      }
+    },
+    {
+      "scope": [
+        "entity.name.function",
+        "entity.name.tag",
+        "support.function"
+      ],
+      "settings": {
+        "foreground": "#FF00FF"
+      }
+    },
+    {
+      "scope": "variable",
+      "settings": {
+        "foreground": "#FFA500"
+      }
+    },
+    {
+      "scope": "constant.language",
+      "settings": {
+        "foreground": "#808080"
+      }
+    },
+    {
+      "scope": "entity.other.attribute-name",
+      "settings": {
+        "foreground": "#FFFF00"
+      }
+    }
+  ]
+}
